@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-19T21:12:04 ICT" name="Practice Suite" finished-at="2021-11-19T21:12:13 ICT" duration-ms="8835">
+    <groups>
+      <group name="001">
+        <method signature="Category.Category()[pri:0, instance:Testcase.Category@4a22f9e2]" name="Category" class="Testcase.Category"/>
+      </group> <!-- 001 -->
+    </groups>
+    <test started-at="2021-11-19T21:12:04 ICT" name="Test1" finished-at="2021-11-19T21:12:13 ICT" duration-ms="8835">
+      <class name="Testcase.Category">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Testcase.Category@4a22f9e2]" started-at="2021-11-19T21:12:04 ICT" name="beforeTest" finished-at="2021-11-19T21:12:11 ICT" duration-ms="6868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Category()[pri:0, instance:Testcase.Category@4a22f9e2]" started-at="2021-11-19T21:12:11 ICT" name="Category" finished-at="2021-11-19T21:12:13 ICT" duration-ms="1883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Category -->
+      </class> <!-- Testcase.Category -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Practice Suite -->
+</testng-results>
